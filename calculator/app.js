@@ -7,5 +7,5 @@ const b = 20;
 const result = a + b;
 
 console.log("Sum: ",result);
-
+console.log("Sub: ",a - b);
 
